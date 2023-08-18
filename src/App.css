@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App-container{
+    padding: 0px 90px;
+}
+
+nav a{
+    font-size: 14px;
+}

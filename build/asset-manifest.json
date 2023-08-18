@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6907d9af.css",
+    "main.js": "/static/js/main.3e1587af.js",
+    "static/js/512.f4153a78.chunk.js": "/static/js/512.f4153a78.chunk.js",
+    "static/media/plant1.jpg": "/static/media/plant1.2ea6a98e98b024731e6a.jpg",
+    "static/media/girl.jpg": "/static/media/girl.5b2cdf3a1bc4514cfcc6.jpg",
+    "static/media/cacti.jpg": "/static/media/cacti.d56079c43debd992344c.jpg",
+    "static/media/philodendron.jpg": "/static/media/philodendron.e413eeaf45e503ef22af.jpg",
+    "static/media/palm_plant.jpg": "/static/media/palm_plant.50cbaf30c95ee7598ffa.jpg",
+    "static/media/Fluted Pumpkin leaf(ugu).jpg": "/static/media/Fluted Pumpkin leaf(ugu).706fb4f4fa864299e6ab.jpg",
+    "static/media/Frame 37.png": "/static/media/Frame 37.4b715a3604c8ed9c0d17.png",
+    "static/media/Frame 36.png": "/static/media/Frame 36.1f81cda67e219ce02ece.png",
+    "static/media/Frame 38.png": "/static/media/Frame 38.0d31e8fe8cebaa198e70.png",
+    "static/media/cher.png": "/static/media/cher.bb601bcbfb7e6705a5d1.png",
+    "static/media/Waterleaf.jpg": "/static/media/Waterleaf.76c3f59a74cc3996c125.jpg",
+    "static/media/Rosie.png": "/static/media/Rosie.84c7da92922788698e91.png",
+    "static/media/Handheld-plant.png": "/static/media/Handheld-plant.40de9f3cb6c15443b1a2.png",
+    "static/media/cropped-cream.jpg": "/static/media/cropped-cream.c579ecdc895f338b7a39.jpg",
+    "static/media/john.png": "/static/media/john.2a4dd69b2b1d17345e8d.png",
+    "static/media/our community.jpg": "/static/media/our community.6afaedb0bf7b120ba22e.jpg",
+    "static/media/Scent leaf.jpg": "/static/media/Scent leaf.815af4b6cc5880d13d64.jpg",
+    "static/media/Efo leaf.jpg": "/static/media/Efo leaf.a7f2fc2407f8066bf2a4.jpg",
+    "static/media/insta-logo.png": "/static/media/insta-logo.df97d86906bc7358093d.png",
+    "static/media/facebook-logo.png": "/static/media/facebook-logo.488d3c12411c42902d7c.png",
+    "static/media/linkedin-logo.png": "/static/media/linkedin-logo.329934eaf54ce6fe1cf6.png",
+    "index.html": "/index.html",
+    "main.6907d9af.css.map": "/static/css/main.6907d9af.css.map",
+    "main.3e1587af.js.map": "/static/js/main.3e1587af.js.map",
+    "512.f4153a78.chunk.js.map": "/static/js/512.f4153a78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6907d9af.css",
+    "static/js/main.3e1587af.js"
+  ]
+}
